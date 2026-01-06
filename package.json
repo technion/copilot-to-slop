@@ -1,0 +1,14 @@
+{
+  "name": "copilot-to-slop",
+  "version": "1.0.0",
+  "description": "Browser extension to make Copilot into Slop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.27.2"
+  }
+}
