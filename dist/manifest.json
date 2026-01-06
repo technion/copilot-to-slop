@@ -3,6 +3,7 @@
     "name": "Copilot To Slop",
     "version": "1.0.0",
     "description": "Replaces the text 'Copilot' with 'slop'.",
+    "permissions": ["activeTab"],
     "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
