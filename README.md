@@ -15,3 +15,7 @@ npx esbuild content_script.ts --bundle --outfile=dist/content_script.js --target
 ## Installation
 
 Will be published on Chrome store soon. In the meantime, use the attached release.
+
+# Demo
+
+![Office to Slop](officeslop.png)
